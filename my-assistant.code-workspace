@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "backend" },
+    { "path": "frontend" }
+  ],
+  "settings": {
+    // 必要に応じてVS Codeの設定をここに追加できます
+  }
+}
